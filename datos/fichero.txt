@@ -1,0 +1,4 @@
+[2025-01-15 10:30:15] INFO Aplicación iniciada
+[2025-01-15 10:30:20] ERROR Error de conexión a BD
+[2025-01-15 10:30:25] WARNING Reintentando conexión
+[2025-01-15 10:30:30] INFO Conexión restaurada
